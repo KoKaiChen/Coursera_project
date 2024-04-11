@@ -4,7 +4,7 @@
 Converting strings into interger and Compete with 
 computer by using operators.
 
-Practice using def(), if/else keyword, and simple operators
+Practice using def(),random() functions, if/else keyword, and simple operators
 '''
 
 # The idea of this program is to equate the strings
