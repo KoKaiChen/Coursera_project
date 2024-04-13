@@ -1,5 +1,7 @@
 # Rock-paper-scissors-lizard-Spock mini-project
 
+#URL:https://py2.codeskulptor.org/#user51_yrigHFukNxnwWE0.py
+
 '''
 Converting strings into interger and Compete with 
 computer by using operators.
